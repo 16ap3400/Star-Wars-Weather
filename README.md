@@ -1,31 +1,6 @@
 # Star-Wars-Weather
 
-
-
-
-
-
-
-
-
-![alt tag](https://github.com/16ap3400/main/Hoth.png)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Check out the screenshots above for some examples of the application!
 
 ## Table of contents
 * [General info](#general-info)

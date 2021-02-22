@@ -93,7 +93,7 @@ struct WeatherModel {
         }else if(temperature < 70){
             switch conditionId {
                 case 200...232:
-                    return "Dagobah"
+                    return "Kamino"
                 case 300...332:
                     return "Kamino"
                 case 500...532:
@@ -102,8 +102,6 @@ struct WeatherModel {
                     return "Hoth"
                 case 700...721:
                     return "Bespin"
-                case 731:
-                    return "Tatooine"
                 case 741:
                     return "Endor"
                 case 751...771:
@@ -117,7 +115,7 @@ struct WeatherModel {
                 case 802...803:
                     return "Yavin 4"
                 default:
-                    return "Tatooine"
+                    return "Yavin 4"
             }
         }else if (temperature < 100){
             switch conditionId {
